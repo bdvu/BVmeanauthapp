@@ -1,3 +1,4 @@
 # BVmeanauthapp
 
-Repository for my MEAN stack tutorial app.
+Git repository to store MEAN stack tutorial app.
+
